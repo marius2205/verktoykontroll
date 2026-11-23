@@ -1,0 +1,9 @@
+VERKTØYKONTROLL 0.7 – MOBILTEST
+
+For å installere på iPhone: publiser hele denne mappen på en HTTPS-nettside, åpne adressen i Safari, trykk Del > Legg til på Hjem-skjermen.
+For Android: åpne HTTPS-adressen i Chrome og velg Installer app.
+For PC: åpne via localhost eller HTTPS i Chrome/Edge og velg Installer.
+
+Appen lagrer data bare på hver enhet (localStorage). Ingen felles synkronisering, sikker innlogging eller server. QR-kamera fungerer kun i nettlesere med BarcodeDetector-støtte. På iPhone kan manuell kode være nødvendig. QR-etiketter krever nett for generering.
+
+Ikke bruk til kritisk lagerdrift. Ta sikkerhetskopi via Eksporter sikkerhetskopi.
